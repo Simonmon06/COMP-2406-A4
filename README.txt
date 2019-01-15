@@ -1,7 +1,7 @@
 
 The node version is 8.11.4 and npm version is 5.6.0.
 
-Check 2406fall2018Assignment5 Rev2.html to see requirment details.
+Check 2406fall2018Assignment5 Rev2.html to see requirments for this project.
 
 
 To run first install the dependencies in package.json by executing:
